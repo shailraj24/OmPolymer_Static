@@ -1,0 +1,6 @@
+{
+  "name": "OM Polymer - Industrial Polymer & Rope Manufacturer",
+  "description": "Official business website for OM Polymer, Gujarat. 13 years of manufacturing excellence in PE fishing twine, HDPE tarpaulin, PP ropes, baler twine, and industrial polymer cordage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
